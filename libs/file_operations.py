@@ -1,23 +1,6 @@
 import os
 import shutil
 
-# USEFUL CONSTANTS
-#delete_files_matching()
-
-
-# my_replace()
-#location    = "C:\\Users\\dske\\Desktop\\Test_Michele_Melbourne\\Automate\\Run 2.1 - ipv4\\"
-#input_file  = "failed.bat"
-#output_file = "failed_run21_trace.bat"
-
-# Set the directory where your text files are located
-#directory = "C:/Users/dske/Desktop/Test_Michele_Melbourne/Automate/Run 1/CRASHED/"
-
-# Define the target string to search for
-#string1     = "Parameter 'NB1' IS NOT supported"
-#string2     = "SIG_INT received."
-#string3     = "[PERL WARNING] -> can't get COMMPROP"
-
 # HTML Operations ---------------------------------------------------------
 def get_test_time ():
     time_line = "</TD></TR><TR><TD>Duration:</TD><TD>" 0:15:49
